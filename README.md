@@ -1,4 +1,4 @@
-# Clincy-stolen-firmware
+# Clincy-selling-stolen-firmware
 Firmware originally made for stardma by dzul, later on stolen by kadim and clincy sold for there own profit.
 
 password for extraction : Yllen23
